@@ -1,0 +1,12 @@
+1. A computer that runs/uses website is called a server.
+2. Webiste-Translator.
+3. Websites are made through HTML, CSS, and Javascript.
+4. Website Front-end is the web browser/app.
+5. Website Back-end is a database server, web server, and file server.
+6. Jason and XML.
+7. Cookies save information to your browser.
+8. Databases-
+9. API-Aplication
+10. Any language can write a Back-end API
+11. Cloud service models-SaaS (Service as a Service, Find users), Paas, and Iaas (Infrastructure as a Service, Network architects, IT administrators)
+12. Software Dev Jobs- System Admin, Database Engineer, Back-End Dev, Front-End Dev, Full Stack Dev, Operations of Dev-Ops, Testers, Designers
